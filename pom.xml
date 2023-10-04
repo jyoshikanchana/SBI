@@ -13,14 +13,9 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
-  <properties>
-  
-	
-	
-	<sonar.login>f3e025f091c3b5cb6359b30d071b4a6927566b83</sonar.login>
-	
- 
-  </properties>
+<sonar.host.url>http://3.110.148.233:9000/</sonar.host.url>
+	<sonar.login>admin</sonar.login>
+	<sonar.password>admin</sonar.password>
 
   <dependencies>
     <dependency>
